@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Oct 2025 15:12:50 at https://demo.egenslab.com/html/tourxpro/demo/index4.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+index4.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.egenslab.com/html/tourxpro/demo/index.html -O1 "D:\Tourism-web\tourism-web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 7 seconds : 263 links scanned, 261 files written (30281649 bytes overall) [26990054 bytes received at 402836 bytes/sec], 4973022 bytes transferred using HTTP compression in 69 files, ratio 30%, 37.5 requests per connection
+
+(No errors, 0 warnings, 0 messages)
+
