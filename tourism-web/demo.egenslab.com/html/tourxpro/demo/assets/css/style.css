@@ -2868,10 +2868,11 @@ header .header-style-four .nav-right .nav-right-hotline .hotline-info h6 a {
 .hero-style-four .slider-bg-1 {
   padding: 300px 0px;
   width: 100%;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../images/banner/banner41.png");
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../images/banner/banner41.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  height: 120vh;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .hero-style-four .slider-bg-1 {
@@ -2886,10 +2887,12 @@ header .header-style-four .nav-right .nav-right-hotline .hotline-info h6 a {
 .hero-style-four .slider-bg-2 {
   padding: 300px 0px;
   width: 100%;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../images/banner/banner42.png");
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../images/banner/banner42..jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  height: 120vh;
+
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .hero-style-four .slider-bg-2 {
